@@ -2,8 +2,6 @@
   <q-page class="flex flex-center">
     <div class="q-pa-md q-gutter-sm">
       <q-editor
-        class="full-width"
-        style="max-width: 1200px;"
         v-model="qeditor"
         :dense="$q.screen.lt.md"
         :toolbar="[

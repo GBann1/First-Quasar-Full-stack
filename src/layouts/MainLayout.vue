@@ -61,12 +61,12 @@ const linksList = [
   {
     title: "Notes",
     icon: "note",
-    link: "http://192.168.200.105:9000/#/404",
+    link: "~/#/404",
   },
   {
     title: "Tasks",
     icon: "task",
-    link: "http://192.168.200.105:9000/#/404",
+    link: "~/#/404",
   },
 ];
 
